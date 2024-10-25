@@ -1,8 +1,0 @@
-Operation History:
-add 1 1 = None
-subtract 1 1 = None
-multiply 1 1 = None
-divide 1 1 = None
-unknown_command  = None
-add 4 5 = None
-add 4 5 = None
