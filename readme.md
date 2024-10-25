@@ -12,7 +12,6 @@
 - [Version Control Best Practices](#version-control-best-practices)
 - [Documentation](#documentation)
 - [Video Showcase](#video-showcase)
-- [Cloning](#Cloning the Repository)
 
 ## Project Overview
 This calculator application provides a command-line interface (REPL) that supports basic arithmetic operations, manages calculation history, and allows for plugin integration. It utilizes Pandas for efficient data management and includes professional logging practices to track application behavior.
@@ -61,7 +60,7 @@ Logical commits are utilized to clearly group feature development and correspond
 Comprehensive documentation is compiled in this README.md, covering setup instructions, usage examples, and an in-depth analysis of architectural decisions, with emphasis on the implementation and impact of chosen design patterns and logging strategy.
 
 ## Video Showcase
-A video has been created to showcase the features and functionalities of this calculator application. You can watch the video [here](link-to-your-video).
+A video has been created to showcase the features and functionalities of this calculator application. You can watch the video [here](https://drive.google.com/file/d/1QwZ0yXbqtH3Y802n7kaqVLQK9bEFmy9A/view?usp=sharing).
 
 ## Cloning the Repository
 To clone the repository, use the following command:
